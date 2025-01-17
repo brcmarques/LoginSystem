@@ -1,0 +1,4 @@
+
+export const supaUrl = 'https://kgippzvgzmuewbceyyqf.supabase.co';
+
+export const anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtnaXBwenZnem11ZXdiY2V5eXFmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzY1MzEwNTMsImV4cCI6MjA1MjEwNzA1M30.T8oYnN7JMKL0MAVxQjFb9DxLhx_O9g_eMj6D-v17Glc';
